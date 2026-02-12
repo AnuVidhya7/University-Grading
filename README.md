@@ -20,7 +20,3 @@ Automatic Grade Calculation (A+, A, B, C, D, F)
 Publish Grades
 <img width="463" height="357" alt="image" src="https://github.com/user-attachments/assets/83d8a6ce-4e08-4ff2-9beb-6fb1e8dc0263" />
 
-
-📑 Generate Individual Student Transcript
-
-🖥️ Menu-driven console interface
